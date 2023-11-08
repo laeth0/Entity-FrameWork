@@ -1,0 +1,126 @@
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\EFSession1.exe
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\EFSession1.deps.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\EFSession1.runtimeconfig.json
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\EFSession1.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\EFSession1.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Humanizer.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.csproj.AssemblyReference.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.AssemblyInfoInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.AssemblyInfo.cs
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.csproj.CoreCompileInputs.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.csproj.CopyComplete
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\refint\EFSession1.dll
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.pdb
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.genruntimeconfig.cache
+D:\Career\Work\Knowledge Academy\Cycle 7\#6 EntityFramework\Demo\EFSession1\EFSession1\obj\Debug\net6.0\ref\EFSession1.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\EFSession1.exe
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\EFSession1.deps.json
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\EFSession1.runtimeconfig.json
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\EFSession1.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\EFSession1.pdb
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.csproj.AssemblyReference.cache
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.AssemblyInfoInputs.cache
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.AssemblyInfo.cs
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.csproj.CoreCompileInputs.cache
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.csproj.CopyComplete
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\refint\EFSession1.dll
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.pdb
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.genruntimeconfig.cache
+C:\Users\BisanCo\Desktop\EF\Demo\EFSession1\EFSession1\obj\Debug\net6.0\ref\EFSession1.dll
+D:\Back End\Entity Framewrok\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.csproj.AssemblyReference.cache
+D:\Back End\Entity Framewrok\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back End\Entity Framewrok\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.AssemblyInfoInputs.cache
+D:\Back End\Entity Framewrok\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.AssemblyInfo.cs
+D:\Back End\Entity Framewrok\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.csproj.CoreCompileInputs.cache
+D:\Back End\Entity Framewrok\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.dll
+D:\Back End\Entity Framewrok\EFSession1\EFSession1\obj\Debug\net6.0\refint\EFSession1.dll
+D:\Back End\Entity Framewrok\EFSession1\EFSession1\obj\Debug\net6.0\EFSession1.pdb
